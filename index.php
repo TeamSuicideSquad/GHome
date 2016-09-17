@@ -17,7 +17,7 @@
 <body>
     <nav class="teal" role="navigation">
         <div class="nav-wrapper container">
-            <a id="logo-container" href="index.php" class="brand-logo"><h4>GHome</h4></a>
+            <a id="logo-container" href="index.php" class="brand-logo"><img class="circle" src="images/GHomeSmallLogo.png"></a>
             <ul class="right hide-on-med-and-down">
                 <li><a href="index.php"><i class="material-icons left">store</i>Home</a></li>
                 <li><a href="logoutform.php"><i class="material-icons left">perm_identity</i>Logout</a></li>
@@ -28,7 +28,7 @@
                 <li>
                     <div class="userView">
                         <img class="background" src="images/SideNavBackground.png">
-                        <a href="#!user"><img class="circle" src="images/GHomeSmallLogo.png"></a>
+                        <a href="#!user"><img class="circle" src="images/GHomeMediumLogo.png"></a>
                         <a href="#!name"><span class="white-text name">GHome</span></a>
                         <a href="#!email"><span class="white-text email">ghomeapp@gmail.com</span></a>
                     </div>
@@ -38,7 +38,7 @@
                     <div class="divider"></div>
                 </li>
 
-                <li><a href="logoutform.php"><i class="teal-text material-icons">perm_identity</i>Logout</a></li>
+                <li><a href="loginform.php"><i class="teal-text material-icons">perm_identity</i>Logout</a></li>
                 <li>
                     <div class="divider"></div>
                 </li>
