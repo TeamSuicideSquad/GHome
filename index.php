@@ -17,7 +17,7 @@
 <body>
     <nav class="teal" role="navigation">
         <div class="nav-wrapper container">
-            <a id="logo-container" href="index.php" class="brand-logo"><img class="circle" src="images/GHomeSmallLogo.png"></a>
+            <a id="logo-container" href="index.php" class="brand-logo"><h4>GHome</h4></a>
             <ul class="right hide-on-med-and-down">
                 <li><a href="index.php"><i class="material-icons left">store</i>Home</a></li>
                 <li><a href="logoutform.php"><i class="material-icons left">perm_identity</i>Logout</a></li>
@@ -28,7 +28,7 @@
                 <li>
                     <div class="userView">
                         <img class="background" src="images/SideNavBackground.png">
-                        <a href="#!user"><img class="circle" src="images/GHomeMediumLogo.png"></a>
+                        <a href="#!user"><img class="circle" src="images/GHomeSmallLogo.png"></a>
                         <a href="#!name"><span class="white-text name">GHome</span></a>
                         <a href="#!email"><span class="white-text email">ghomeapp@gmail.com</span></a>
                     </div>
@@ -38,7 +38,7 @@
                     <div class="divider"></div>
                 </li>
 
-                <li><a href="loginform.php"><i class="teal-text material-icons">perm_identity</i>Logout</a></li>
+                <li><a href="logoutform.php"><i class="teal-text material-icons">perm_identity</i>Logout</a></li>
                 <li>
                     <div class="divider"></div>
                 </li>
@@ -48,7 +48,9 @@
                 </li>
                 <li><a class="dropdown-button" href="#!" data-activates="dropdownmobile">Categories<i class="teal-text material-icons left">call_received</i></a></li>
                 <ul id="dropdownmobile" class="dropdown-content">
-
+                    <li><a href="Philippine Flood Hazard Maps.html"><i class="teal-text material-icons">info_outline</i>Flood</a></li>
+                    <li></li>
+                    <li></li>
                 </ul>
             </ul>
             <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
